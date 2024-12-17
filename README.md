@@ -6,7 +6,7 @@ Soy un profesional con más de **18 años de experiencia** en educación, inform
 ---
 
 ## 🧰 **Habilidades y Tecnologías**
-Aunque no soy un experto en todas estas tecnologías, con el apoyo de la **Inteligencia Artificial** y mi enfoque autodidacta, he logrado sacar adelante proyectos complejos y entregar soluciones de calidad.
+Aunque no soy un experto en todas estas tecnologías, con el apoyo de la **Inteligencia Artificial** y mi enfoque autodidacta he logrado sacar adelante proyectos complejos y entregar soluciones de calidad.
 
 - **Lenguajes de Programación**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - **Bases de Datos**: SQL Server, MySQL
